@@ -1,0 +1,23 @@
+# File: ~/Git/Driscoll/Gui/notes
+
+# Creating GUIs with PySimpleGUI
+
+User mannual at https://www.pysimplegui.org/en/latest/
+
+An abstraction layer on top of (or wrapper around)
+Tkinter, wxPython and PyQt. (Resently also HTML related Remi.)
+Don't have to use classes to create user interfaces.
+
+pip install pysimplegui
+
+See: hello.py
+and  hello1.py
+
+Supported elements:
+https://pysimplegui.readthedocs.io/en/latest/#element-and-function-call-reference
+Creating multiple windows:
+https://pysimplegui.readthedocs.io/en/latest/#running-multiple-windows
+
+Two design patterns...
+
+
